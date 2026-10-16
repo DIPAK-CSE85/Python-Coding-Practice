@@ -1,0 +1,11 @@
+words = [ "action", "bright", "client", "danger", "energy", "family", "global", "height", 
+    "island", "junior", "market", "nature", "object", "player", "simple", "target", 
+    "unique", "visual", "winter", "yellow","ability", "balance", "captain", "diamond", "example",
+    "feature", "generic", "history", "imagine", "journal", "kitchen", "library", "morning", "network", 
+    "opinion", "package", "quality", "respect", "science","absolute", "birthday", "calendar",
+    "delivery", "exercise", "favorite",  "gradient", "hospital", "identity", "judgment", "keyboard", 
+    "location", "mountain", "notebook", "original", "platform", "question", "resource", 
+    "standard", "together","adventure", "beautiful", "challenge", "different", "education", "furniture", 
+    "guarantee", "happiness", "important", "knowledge", "landscape", "marketing", 
+    "necessary", "operation", "passenger", "quickness", "reference", "situation", 
+    "transport", "yesterday"]

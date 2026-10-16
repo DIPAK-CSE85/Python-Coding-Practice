@@ -1,0 +1,13 @@
+tuple=(10,30,45,21,5,9,10,30)
+tuple1=(10,30,45,21,5,9,10,30)
+print(tuple)
+print(tuple[2])
+print(tuple[1:8:3])
+print(len(tuple))
+print(tuple+tuple1)
+tuple3=(tuple,tuple1)
+print(tuple3)
+print(len(tuple3))
+list1=[23,24,25]
+x=list(tuple)
+print(list1+list1)

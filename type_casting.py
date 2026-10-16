@@ -1,0 +1,15 @@
+print(len("dipak shivankar"))
+length=len("dipak shivankar")
+print("your name has "+str(length)+" charectors") #type casting from int to string
+print(type(length))
+print(length)
+new_type=str(length) #typecast int into string
+new_type=float(length)
+new_type=int(length)
+print(type(new_type))
+print(str(10)+str(10))
+print(157+float(10))
+print(10+int("123"))
+num1=(input("enter a first number="))
+num2=(input("enter a second number="))
+print(int(num1)+int(num2))

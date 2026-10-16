@@ -1,0 +1,9 @@
+list=[10,34,56,78,[32,65,98],65,45]
+print(len(list))
+print(list[3])
+print(list[4])
+print(list[4][1])
+print(list[4][0:2])
+list1=[10,34,56,78,['dipak','suraj','rohit'],65,45]
+print(list1[4][2])
+print(list1[4])

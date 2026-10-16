@@ -1,0 +1,6 @@
+#z=(input("enter a name="))
+#x=(input("enter a second name="))
+#print(z+x)
+#print("hello")
+#print("hello "+input("enter a name="))
+print("hey "+input("enter your name= ")+","+" how are you?")

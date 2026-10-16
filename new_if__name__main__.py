@@ -1,0 +1,2 @@
+import IF__NAME__MAIN__
+IF__NAME__MAIN__.display()

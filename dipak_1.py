@@ -1,0 +1,1 @@
+print("My name is Dipak and I am from Bhandara and recently persuing B tech degree in computer scince from G H raisoni skill tech univesity")

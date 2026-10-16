@@ -1,0 +1,2 @@
+
+list=["red","black","orange","green","blue","yellow","bisque2","blue violet","burlywood3","chocolate","cyan3","dark blue","dark magenta ","DarkGoldenrod3","DarkOrchid1","DarkSlateBlue","deep sky blue","firebrick4","gold","gray56","GreenYellow","LavenderBlush1","LawnGreen","light coral","medium orchid","medium purple","MediumAquamarine","old lace","OrangeRed","peach puff","SeaGreen4"]
